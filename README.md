@@ -120,3 +120,8 @@ Throughout the process, the system handles various exceptions to ensure smooth e
 ## Contributing
 
 We welcome contributions to improve the system. If you'd like to add new features or fix bugs, please feel free to fork the repository, make changes, and submit a pull request.
+
+## Team Members
+1. John Akech
+2. Geu Aguto Garang Bior
+3. Kuir Juach Kuir Thuch
