@@ -4,6 +4,7 @@
 This project is designed to fetch student records from an external API, process the data, make predictions on their academic performance, and log the results back into the database. It utilizes machine learning models to predict the average academic score of a student based on their math, reading, and writing scores.
 
 **Overview**
+
 The system performs the following steps:
 
 **Fetches the latest student record from the API.**
