@@ -45,6 +45,7 @@ The system fetches the latest student record from the API at https://student-per
 def fetch_latest_record():
     # Fetch the latest student record from the API
     ...
+    
 **Step 2: Load the Pre-trained Model and Scaler**
 
 The system loads the pre-trained machine learning model and scaler using the joblib library. These files must be provided in the configuration file. The model is responsible for making the predictions, while the scaler standardizes the data before feeding it into the model.
